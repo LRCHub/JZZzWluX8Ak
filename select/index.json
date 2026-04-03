@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Flyday",
+  "base_artist": "SKRYU",
+  "createdAt": "2026-04-03T12:57:18.422298Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Flyday Chinatown",
+      "artist": "泰葉",
+      "has_synced": false,
+      "path": "select/01_Flyday_Chinatown_泰葉.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Flyday Chinatown",
+      "artist": "Yasuha",
+      "has_synced": false,
+      "path": "select/02_Flyday_Chinatown_Yasuha.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Flyday Chinatown",
+      "artist": "泰葉",
+      "has_synced": true,
+      "path": "select/03_Flyday_Chinatown_泰葉.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Flyday Chinatown by Yasuha",
+      "artist": "MesmoLate",
+      "has_synced": true,
+      "path": "select/04_Flyday_Chinatown_by_Yasuha_MesmoLate.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "FIGHT! - Flyday Chinatown",
+      "artist": "Aests",
+      "has_synced": true,
+      "path": "select/05_FIGHT!_-_Flyday_Chinatown_Aests.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Flyday Chinatown",
+      "artist": "Ms.OOJA",
+      "has_synced": false,
+      "path": "select/06_Flyday_Chinatown_Ms.OOJA.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Flyday Chinatown",
+      "artist": "MerryGo",
+      "has_synced": true,
+      "path": "select/07_Flyday_Chinatown_MerryGo.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Flyday Phonkytown",
+      "artist": "CXLLINPLAYA",
+      "has_synced": true,
+      "path": "select/08_Flyday_Phonkytown_CXLLINPLAYA.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Flyday Chinatown Dance Mix",
+      "artist": "13eam5",
+      "has_synced": true,
+      "path": "select/09_Flyday_Chinatown_Dance_Mix_13eam5.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "FIGHT! - Flyday Chinatown (Paused)",
+      "artist": "Aests",
+      "has_synced": true,
+      "path": "select/10_FIGHT!_-_Flyday_Chinatown_(Paused)_Aests.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Flyday Chinatown",
+      "artist": "Ms.OOJA",
+      "has_synced": false,
+      "path": "select/11_Flyday_Chinatown_Ms.OOJA.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Flyday Chinatown",
+      "artist": "EVADE FROM 宇宙",
+      "has_synced": true,
+      "path": "select/12_Flyday_Chinatown_EVADE_FROM_宇宙.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Flyday Chinatown",
+      "artist": "Yasuha 泰葉",
+      "has_synced": false,
+      "path": "select/13_Flyday_Chinatown_Yasuha_泰葉.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Flyday",
+      "artist": "SKRYU",
+      "has_synced": false,
+      "path": "select/pl_01_Flyday_SKRYU.txt"
+    }
+  ]
+}
